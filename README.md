@@ -10,7 +10,7 @@
   <a href="mailto:saquibk894@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://leetcode.com/u/iamSaquibkhan"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
   <a href="https://www.geeksforgeeks.org/user/saquibk894"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="https://advy.me/saquib"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=about.me&logoColor=white" /></a>
+  <a href="https://portfolio-saquib-shahid.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=about.me&logoColor=white" /></a>
 </p>
 
 ---
